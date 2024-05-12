@@ -48,11 +48,6 @@ Console.WriteLine($"искомых элементов - {count}");
 // Печатаем новый массив
 Print_mas(mas_2);
 
-
-
-
-
-
 // функция вывода массива на консоль
 void Print_mas(string[] mas) 
 {

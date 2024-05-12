@@ -49,6 +49,10 @@ Console.WriteLine($"искомых элементов - {count}");
 Print_mas(mas_2);
 
 
+
+
+
+
 // функция вывода массива на консоль
 void Print_mas(string[] mas) 
 {
